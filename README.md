@@ -1,3 +1,3 @@
 # shopping_app
 
-A new Flutter project.
+My first shopping app project using flutter and appwrite
